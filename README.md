@@ -1,4 +1,4 @@
-# personal_medical_record
+# personal medical record
 
 A new Flutter project.
 
